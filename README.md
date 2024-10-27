@@ -36,6 +36,9 @@ This project encompasses various tasks related to data structures, algorithms, a
 - Simulated rolling two dice multiple times to compute the sums of the results.
 - Generated a probability table for each possible sum (from 2 to 12) based on the simulation results.
 - Compared the results obtained via the Monte Carlo method with analytical calculations.
+- The results obtained via the Monte Carlo method are almost identical with Table of sum prices.
+- ![alt text](image.png)
+- ![alt text](image-1.png)
 
 ## Conclusions
 - Each task successfully meets its requirements and demonstrates fundamental principles in data structures and algorithms.
